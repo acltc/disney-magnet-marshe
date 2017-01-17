@@ -1,0 +1,82 @@
+body {
+	background-color: #ff1aff;
+}
+
+#navbar {
+	list-style-type: none;
+	margin: 0;	
+	padding: 0;
+	overflow: hidden;
+	background-color: violet;
+}
+
+#navbar li {
+	float: left;
+}
+
+#navbar li a {
+	display: block;
+	color: #ffffff;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #555;
+	color: #e0b3ff;
+}
+
+#girl_image{
+	float: left;
+	margin:50px;
+}
+
+#girl_image img{
+	width: 500px;
+}
+
+#boy_image{
+	float: left;
+	width: 500px;
+	margin:50px;
+
+}
+
+#boy_image img{
+	width: 500px;
+}
+
+#girl_list li {
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+#boy_list li {
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+#introduction{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+h1, h2{
+	text-decoration: none;
+}
+
+h5 {
+	font-size: 20px;
+}
+
+#selector2 {
+	display:none;
+}
+
+#selector4 {
+	display:none;
+
+
+}
+
+
